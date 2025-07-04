@@ -1,6 +1,9 @@
 # customer-retention-behavior-analysis
 This project analyzes the Olist e-commerce dataset to understand how many customers placed repeat orders and what the overall customer retention rate is.
 
+# Dataset
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 ## What the Code Does
 
 - Loads multiple CSV files from the Olist dataset (orders, customers, payments, etc.).
