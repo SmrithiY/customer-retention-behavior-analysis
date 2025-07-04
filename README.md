@@ -22,7 +22,7 @@ This project analyzes the Olist e-commerce dataset to understand how many custom
 
 ## How to Use
 
-1. Download the Olist dataset from Kaggle.
+1. Download the Olist dataset.
 2. Place the CSV files in the folder specified in the script (`data_path`).
 3. Run the Python script.
 
