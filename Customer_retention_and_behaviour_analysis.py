@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[1]:
-
+pip install pandas numpy matplotlib
 
 # IMPORT LIBRARIES
 import pandas as pd
